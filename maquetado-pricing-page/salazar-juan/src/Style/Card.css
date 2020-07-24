@@ -1,0 +1,25 @@
+
+h1{
+    font-size: 3.75rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 300;
+    line-height: 1.2;
+    letter-spacing: -0.00833em;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+p{
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.54);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 32.0167px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
