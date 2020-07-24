@@ -8,7 +8,12 @@ import 'bootstrap/dist/css/bootstrap.css'
 
 
 ReactDOM.render(
-  <Card/>,
+  <div>
+    <Card/>
+    <Colum/>
+
+  </div>,
   document.getElementById('root')
 );
+
 
